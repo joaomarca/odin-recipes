@@ -1,0 +1,57 @@
+html {
+    box-sizing: border-box;
+    background-color: orange;
+}
+
+.title-footer h1 {
+    margin: 0;
+    padding: 20px;
+    background-color: white;
+    display: inline-block;
+}
+
+#title-footer-image {
+    display:block;
+    background-color:white;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin: 0 0 0 10px;
+    border: solid white 0;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    float: left;
+    width:40px;
+}
+
+h1 {
+    color:orange;
+    font-family: 'Courier New';
+}
+
+.recipes {
+    text-align: center;
+}
+
+.recipes h2 {
+    background-color: white;
+    border: solid white 10px;
+    border-left: 20px;
+    border-right: 20px;
+    padding: 0 20px 0 20px;
+    display: inline-block;
+}
+
+.recipes ul {
+    text-align: left;
+    font-size: 20px;
+}
+
+.recipes a {
+    color: white;
+    text-decoration: none;
+}
+
+.recipes a:hover {
+    text-decoration: underline;
+}

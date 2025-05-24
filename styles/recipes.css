@@ -1,0 +1,28 @@
+html {
+    box-sizing: border-box;
+    background-color: orange;
+}
+
+a {
+    font-family: Arial;
+    color: darkblue;
+    font-weight:700;
+    text-decoration: none;
+    font-size: 40px;
+    float: left;
+    margin: 0px 1  20px;
+    border: solid orange 30px;
+    border-bottom: 0;
+    border-top: 0;
+    border-right-width: 20px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    background-color: white;
+    color: orange;
+}
